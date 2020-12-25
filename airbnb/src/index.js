@@ -3,11 +3,12 @@ import ReactDOM from "react-dom";
 import "./index.css";
 // import App from "./App";
 import reportWebVitals from "./reportWebVitals";
-import Hello from "./components/hello";
+import Flat from "./components/Flat";
 
+const flat = {};
 ReactDOM.render(
   <React.StrictMode>
-    <Hello />
+    <Flat Flat={flat} />
   </React.StrictMode>,
   document.getElementById("root")
 );
