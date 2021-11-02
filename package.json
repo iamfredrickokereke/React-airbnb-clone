@@ -2,7 +2,7 @@
   "name": "React-airbnb-clone",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",,
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iamfredrickokereke/React-airbnb-clone.git"
